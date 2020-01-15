@@ -1,0 +1,434 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"php",
+				"php\t<?php … ?>"
+			],
+			[
+				"file",
+				"file_store"
+			],
+			[
+				"input",
+				"input\tTag"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"algin",
+				"align-items\tproperty"
+			],
+			[
+				"al",
+				"text-align\tproperty"
+			],
+			[
+				"but",
+				"bs3-button:primary\tbs3-button-primary"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"destroy",
+				"session_destroy"
+			],
+			[
+				"butt",
+				"bs3-button:primary\tbs3-button-primary"
+			],
+			[
+				"btn-",
+				"btn-info \tBootstrap 3 Class"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"sig",
+				"signUp"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"th",
+				"them"
+			],
+			[
+				"cell",
+				"cellspacing\tAttr"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"sql",
+				"sql_select"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"sesson",
+				"session_name"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"acs",
+				"acs_arr"
+			],
+			[
+				"uk",
+				"ukl_arr"
+			],
+			[
+				"fge",
+				"fgets"
+			],
+			[
+				"c",
+				"cellspacing\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"dele",
+				"deleteIp"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"tit",
+				"tittle"
+			],
+			[
+				"id",
+				"id_update"
+			],
+			[
+				"bt",
+				"btUpdate"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"So",
+				"SoftwareSharingWeb"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"co",
+				"color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/ProjectP/Php/vd.php",
+		"/C/xampp/htdocs/ProjectP/Php/detail.php",
+		"/C/xampp/htdocs/projectp/Php/cart.php",
+		"/C/xampp/htdocs/projectp/Php/detail1.html",
+		"/C/xampp/htdocs/PRJ/PHP/upload.php",
+		"/C/xampp/htdocs/PRJ/PHP/food.php",
+		"/C/xampp/htdocs/PRJ/PHP/model/Rooms.php",
+		"/C/xampp/htdocs/PRJ/PHP/model/Foods.php",
+		"/C/xampp/htdocs/PRJ/PHP/manh.php",
+		"/C/xampp/htdocs/PRJ/connect.php",
+		"/C/xampp/htdocs/PRJ/JS/js.js",
+		"/C/xampp/htdocs/PRJ/CSS/style.css",
+		"/C/xampp/htdocs/PRJ/abc.php",
+		"/C/xampp/htdocs/PRJ/info.php",
+		"/C/xampp/htdocs/PRJ/book-tour.php",
+		"/C/xampp/htdocs/PRJ/food.php",
+		"/C/xampp/htdocs/PRJ/index.php",
+		"/C/xampp/htdocs/PRJ/gallery.php",
+		"/C/xampp/htdocs/PRJ/login.php",
+		"/C/xampp/htdocs/PRJ/forgotPassword.php",
+		"/C/xampp/htdocs/PRJ/register.php",
+		"/C/xampp/htdocs/PRJ/CSS/main.css",
+		"/C/xampp/htdocs/MyForm/HTML&PHP/stdmng.php",
+		"/C/xampp/htdocs/ShoeShop/index.js",
+		"/C/xampp/htdocs/HW2_DB/login.php",
+		"/C/xampp/htdocs/HW2_DB/database.sql",
+		"/C/xampp/htdocs/ShoeShop/database.php",
+		"/C/xampp/htdocs/PRJ/PHP/register.html",
+		"/C/Users/Admin/Downloads/online_login_form/index.html",
+		"/C/Users/Admin/Downloads/colorlib-search-2/index.html",
+		"/C/xampp/htdocs/MySQL/Php/them.php",
+		"/C/xampp/htdocs/MySQL/Php/admin.php",
+		"/C/xampp/htdocs/MySQL/createdatabase.php",
+		"/C/xampp/htdocs/mang2.php",
+		"/C/xampp/htdocs/ShoeShop/index.php",
+		"/C/xampp/htdocs/ukulele/product",
+		"/C/xampp/htdocs/ukulele",
+		"/C/xampp/htdocs/MyForm/HTML/data.php",
+		"/C/xampp/htdocs/MyForm/HTML/register.php",
+		"/C/xampp/htdocs/MyForm/HTML/add.php",
+		"/C/xampp/htdocs/MyForm/HTML/stdmng.php",
+		"/C/xampp/htdocs/prd.txt",
+		"/C/xampp/htdocs/file3.txt",
+		"/C/xampp/htdocs/mang.php",
+		"/C/xampp/htdocs/MyForm/HTML&PHP/login.php",
+		"/C/xampp/htdocs/MyForm/CSS/style.css",
+		"/C/xampp/htdocs/file2.txt",
+		"/C/xampp/htdocs/MyForm/HTML/login.php",
+		"/C/xampp/htdocs/Ktra/student-delete.php",
+		"/C/xampp/htdocs/Ktra/student-add.php",
+		"/C/xampp/htdocs/Ktra/student-list.php",
+		"/C/xampp/htdocs/Ktra/students.php",
+		"/C/xampp/htdocs/Ktra/manh.php",
+		"/C/xampp/htdocs/Ktra/studebts.php",
+		"/C/xampp/htdocs/Nguyen Manh/HTML/SoftwareSharingWeb.php",
+		"/C/xampp/htdocs/iphone2.php",
+		"/C/xampp/htdocs/Nguyen Manh/HTML/SoftwareSharingWeb - Copy.html",
+		"/C/xampp/htdocs/13-11/danhsach.php",
+		"/C/Users/Admin/Downloads/Compressed/MyForm-20191112T150637Z-001/HTML/register.html",
+		"/C/Users/Admin/Downloads/Compressed/MyForm-20191112T150637Z-001/CSS/style.css",
+		"/C/Users/Admin/Downloads/Compressed/MyForm-20191112T150637Z-001/HTML/login.html",
+		"/C/Users/Admin/Desktop/PhP/login.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "database.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
